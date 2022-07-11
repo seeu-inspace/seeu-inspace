@@ -1,7 +1,7 @@
 I'm a Penetration Tester and Hacker. Since I was a kid, I have fallen in love with hacking and penetration testing. I spent most of my time stuck in front of my computer, trying to find new ways to get into a target. That's what I still do today, but professionally.
 
 - My website: [seeu-inspace.github.io](https://seeu-inspace.github.io)
-- My LinkedIn: [www.linkedin.com/in/riccardo-malatesta](https://www.linkedin.com/in/riccardo-malatesta)
+- My LinkedIn: [linkedin.com/in/riccardo-malatesta](https://www.linkedin.com/in/riccardo-malatesta)
 - My ENS domain: [riccardomalatesta.eth](https://app.ens.domains/name/riccardomalatesta.eth/details)
 
 My bug hunting profiles:
