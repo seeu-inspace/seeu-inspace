@@ -2,6 +2,7 @@ I'm a Penetration Tester and Hacker. Since I was a kid, I have fallen in love wi
 
 - My website: [seeu-inspace.github.io](https://seeu-inspace.github.io)
 - My LinkedIn: [www.linkedin.com/in/riccardo-malatesta](https://www.linkedin.com/in/riccardo-malatesta)
+- My ENS domain: riccardomalatesta.eth
 
 My bug hunting profiles:
 - [YesWeHack/seeu](https://yeswehack.com/hunters/seeu)
