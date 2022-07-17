@@ -7,3 +7,4 @@ I'm a Penetration Tester and Hacker. Since I was a kid, I have fallen in love wi
 Bug hunting profiles:
 - [YesWeHack/seeu](https://yeswehack.com/hunters/seeu)
 - [HackerOne/seeu](https://hackerone.com/seeu?type=user)
+- [OpenBugBounty/rcdxmlt](https://openbugbounty.org/researchers/rcdxmlt/)
